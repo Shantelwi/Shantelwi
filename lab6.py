@@ -1,0 +1,11 @@
+TAX_RATE=0.2
+STANDARD_DEDUCTION=10000.00
+DEPENDENT_DEDUCTION=2000.00
+grossIncome=input("grossIncome")
+number_of_dependents=input("dependents")
+dependents=("dependents*DEPENDENT_DEDUCTION")
+grossIncome-(dependentDeduction+STANDARD_DEDUCTION)
+grossIncomeAfterDeduction*TAX_RATE
+grossIncome-incomeTax
+print("IncomeTax:"+incomeTax)
+print("grossIncomeAfterTax:"+grossIncomeAfterTax)
