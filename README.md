@@ -1,1 +1,1 @@
-Hi, I'm @Shantelwi. I'm am interested in learning code and I'm currently learning learning python and html. Im looking to collaborate on projects because I would like a second pair of eyes to look over my code 😊. How to reach me insta: @ _shantel.williams_
+Hi, I'm @Shantelwi. I'm am interested in learning code and I'm currently learning learning python and html. Im looking to collaborate on projects because I would like a second pair of eyes to look over my code 😊. How to reach me insta: @ _shantel.williams_ (underscores before the s and after the s
