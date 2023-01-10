@@ -1,1 +1,2 @@
-Hi, I'm @Shantelwi. I'm am interested in learning code and I'm currently learning learning python,javascript,css and html. Im looking to collaborate on projects because I would like a second pair of eyes to look over my code 😊. How to reach me insta: @ _shantel.williams_ (underscores before the s and after the s)
+Hi, I'm @Shantelwi. I'm am a Full Stack Developer. How to reach me insta: 
+@_shantel.williams_ (underscores before the s and after the s)
