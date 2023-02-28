@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shantel Williams</h1>
-<h3 align="center">A passionate frontend developer from California</h3>
+<h3 align="center">A passionate full-stack developer from California</h3>
 
 - 🌱 I’m currently learning **Html,CSS,Python,Javascript,Java**
 
